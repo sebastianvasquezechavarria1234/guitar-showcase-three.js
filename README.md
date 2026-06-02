@@ -1,14 +1,14 @@
-# 3D Model Viewer
+# Guitar Showcase Three.js
 
-An interactive 3D model viewer built with Three.js, displaying GLB models with dynamic lighting and orbit controls.
+An interactive 3D guitar viewer built with Three.js, displaying a GLB guitar model with dynamic lighting and orbit controls.
 
 ## Preview
 
-<img src="./preview.png" alt="3D Model Viewer Preview" width="100%" />
+<img src="./preview.png" alt="Guitar Showcase Preview" width="100%" />
 
 ## Features
 
-* GLB/GLTF model loading
+* GLB/GLTF guitar model loading
 * Automatic model centering and camera adjustment
 * Ambient and directional lighting
 * OrbitControls navigation
@@ -26,14 +26,14 @@ An interactive 3D model viewer built with Three.js, displaying GLB models with d
 
 ## Controls
 
-* **Left Mouse Button:** Rotate the model
+* **Left Mouse Button:** Rotate the guitar
 * **Mouse Wheel:** Zoom in and out
 * **Right Mouse Button:** Pan the scene
 
 ## Getting Started
 
 1. Clone the repository.
-2. Place your `model.glb` file in the root directory.
+2. Place your `model.glb` guitar file in the root directory.
 3. Open the project using a local server.
 4. Run `index.html`.
 
